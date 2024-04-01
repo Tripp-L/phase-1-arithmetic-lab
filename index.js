@@ -8,7 +8,7 @@ let num3 = 14;
 let num4 = 5;
 let mod = num3 % num4;
 
-let numbers = [10, 5, 20, 15];
+let numbers = [10, 5, 20, 15]
 let max = Math.max(...numbers);
 
 
